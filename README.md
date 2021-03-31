@@ -1,4 +1,4 @@
-# AD-User-Profile-Query
+# AD User Profile Query
 Scan all users that have logged into specified target devices and query Active Directory to retrieve profile information. 
 This is useful for troubleshooting to identify which users have logged into a particular machine.
 
